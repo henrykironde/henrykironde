@@ -66,7 +66,7 @@ Here are some ideas to get you started:
   
    <tr>
     <td>
-      <img width="300px" src="https://juliahub.com/ui/Packages/Retriever/9M45d/1.0.0?t=0"/>
+      <img width="300px" src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Julia_Programming_Language_Logo.svg"/>
     </td>
     <td>
        <h1>Julia: Retriever.Jl</h1>
@@ -94,5 +94,19 @@ Here are some ideas to get you started:
     </td>
   </tr>
 
+   <tr>
+    <td>
+      <img width="300px" src="https://cdn.shortpixel.ai/spai/w_260+q_lossy+ret_img/https://numfocus.org/wp-content/uploads/2018/01/optNumFocus_LRG.png"/>
+    </td>
+    <td>
+       <h1>GSoC</h1>
+       <p>
+        Google Summer of Code with NumFOCUS, Admin and mentor.
+       </p>
+       <p>
+         <a href="https://github.com/numfocus/gsoc">NumFOCUS</a>  | <a href="">Data Retriever</a>
+       </p>
+    </td>
+  </tr>
 </table>
 
