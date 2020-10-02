@@ -89,7 +89,7 @@ Here are some ideas to get you started:
         Conda pakage maintainer: Deepforest Keras-resnet Slidingwindow Retriever.
        </p>
        <p>
-         <a href="https://anaconda.org/conda-forge/deepforest/badges">Deepforest</a>  | <a href="https://github.com/conda-forge/blog/blob/gh-pages/_posts/2020-02-04-GSoC.md">Retriever</a> | <a href="https://anaconda.org/conda-forge/slidingwindow/badges"> Slidingwindow </a> | <a href="https://anaconda.org/conda-forge/Keras-resnet/badges">Keras-resnet</a>
+         <a href="https://anaconda.org/conda-forge/deepforest/badges">Deepforest</a>  | <a href="https://anaconda.org/conda-forge/retriever/badges">Retriever</a> | <a href="https://anaconda.org/conda-forge/slidingwindow/badges"> Slidingwindow </a> | <a href="https://anaconda.org/conda-forge/Keras-resnet/badges">Keras-resnet</a>
        </p>
     </td>
   </tr>
