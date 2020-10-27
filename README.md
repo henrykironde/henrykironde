@@ -106,5 +106,37 @@ In alphabetic order.
        </p>
     </td>
   </tr>
+     <tr>
+    <td>
+      <img width="300px" src="https://raw.githubusercontent.com/henrykironde/Geodata/master/unpack/Mentorship-795x585.jpg"/>
+    </td>
+    <td>
+       <h1>Mentoring</h1>
+       <p>
+        <a href="https://www.linkedin.com/in/zhangcandrew/">Andrew Zhang</a> Google Summer of Code Mentor & Software Developer. . <b>Microsoft, Facebook</b>
+       </p>
+       <p>
+        <a href="http://linkedin.com/in/apoorva-pandey-bb6603130">Apoorva Pandey</a> Google Summer of Code with NumFOCUS(Intern and mentor), <b>Datapane.</b>
+       </p>
+       <p>
+        <a href="https://in.linkedin.com/in/akash-goel-2419a381">Akash Goel</a> Google Summer of Code with NumFOCUS, <b>Amazon.</b>
+       </p>
+       <p>
+        <a href="https://in.linkedin.com/in/shivam-negi-64a227103">Shivam Negi</a> Google Summer of Code with NumFOCUS, <b>Samsung.</b>
+       </p> <p>
+        <a href="https://www.linkedin.com/in/pranita-s">Pranita Sharma</a> Google Summer of Code with NumFOCUS, <b>Bloomberg.</b>
+       </p>
+       <p>
+        <a href="https://in.linkedin.com/in/linksumitsaha">Sumit Saha</a> Google Summer of Code with NumFOCUS., <b>SquadStack</b>
+       </p> <p>
+         <a href="https://www.linkedin.com/in/harshit-bansal-b21b51141">Harshit Bansal</a> Google Summer of Code, <b>Amazon, Goldman Sachs</b>
+      </p> <p>
+        <a href="https://in.linkedin.com/in/ashish-priyadarshi-cic">Ashish Priyadarshi</a> Google Summer of Code with NumFOCUS.
+       </p>
+       <p>
+         <a href="https://github.com/numfocus/gsoc">NumFOCUS</a>  | <a href="">Data Retriever</a>
+       </p>
+    </td>
+  </tr>
 </table>
 
