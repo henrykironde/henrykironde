@@ -6,7 +6,7 @@
 <td>
 <h1>Data Retriever</h1>
 <p>The Data Retriever automates the tasks of finding, downloading, and cleaning up publicly available data, and loads them or stores them in variety of databases or flat file formats. This lets data analysts spend less time cleaning up and managing data, and more time analyzing it.</p>
-<p><a href="https://github.com/weecology/retriever">Website</a> | <a href="https://github.com/weecology/retriever">Ideas List</a> | <a href="https://aiidateam.slack.com/"> Contact (Slack) </a> | <a href="https://github.com/aiidateam/aiida-core">Source Code</a></p>
+<p><a href="https://github.com/weecology/retriever">Website</a> | <a href="https://github.com/weecology/retriever">Ideas List</a> | <a href="https://gitter.im/weecology/retriever"> Contact (Slack) </a> | <a href="https://github.com/weecology/retriever">Source Code</a></p>
 </td>
 </tr>
 <tr>
@@ -14,7 +14,7 @@
 <td>
 <h1>rOpenSci: The rdataretriever package</h1>
 <p>rdataretriever: An R package for downloading, cleaning, and installing publicly available datasets.</p>
-<p><a href="https://docs.ropensci.org/rdataretriever/">Website</a> | <a href="https://docs.ropensci.org/rdataretriever/">Ideas List</a> | <a href="https://gitter.im/arviz-devs/community"> Contact (Gitter) </a> | <a href="https://github.com/arviz-devs/arviz">Source Code</a></p>
+<p><a href="https://docs.ropensci.org/rdataretriever/">Website</a> | <a href="https://docs.ropensci.org/rdataretriever/">Ideas List</a> | <a href="https://gitter.im/weecology/retriever"> Contact (Gitter) </a> | <a href="https://docs.ropensci.org/rdataretriever/">Source Code</a></p>
 </td>
 </tr>
 <tr>
