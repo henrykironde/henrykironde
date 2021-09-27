@@ -77,6 +77,11 @@
 <p><a href="https://in.linkedin.com/in/linksumitsaha">Sumit Saha</a> Google Summer of Code with NumFOCUS., <strong>SquadStack</strong></p>
 <p><a href="https://www.linkedin.com/in/harshit-bansal-b21b51141">Harshit Bansal</a> Google Summer of Code, <strong>Amazon, Goldman Sachs</strong></p>
 <p><a href="https://in.linkedin.com/in/ashish-priyadarshi-cic">Ashish Priyadarshi</a> Google Summer of Code with NumFOCUS.</p>
+<p></p>
+<p><b>Summer Intern 2021.</b></p> 
+<p><a href="https://www.linkedin.com/in/ansh-dassani-2b4b44190">Ansh Dassani</a> Summer of Code, 2021, <a href="http://ducic.ac.in">University of Delhi 2023</a></p>
+<p><a href="https://www.linkedin.com/in/kush-kothari-ba013218b">Kush Kothari</a> Google Summer of Code with NumFOCUS, <a href="https://vjti.ac.in">Veermata Jijabai Technological Institute (VJTI) 2023</a></p>
+<p><a href="https://www.linkedin.com/in/aakash-chaudhary-5203b9162">Aakash Chaudhary</a> Google Summer of Code with NumFOCUS, <a href="http://ducic.ac.in">University of Delhi 2022</a></p>
 <p><a href="https://github.com/numfocus/gsoc">NumFOCUS</a> | <a>Data Retriever</a></p>
 </td>
 </tr>
