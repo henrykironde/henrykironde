@@ -80,13 +80,13 @@
 <p></p>
 <p><b>Summer Intern 2021.</b></p> 
 <p><a href="https://www.linkedin.com/in/ansh-dassani-2b4b44190">Ansh Dassani</a> Summer of Code, 2021, <a href="http://ducic.ac.in">University of Delhi 2023</a></p>
-<p><a href="https://www.linkedin.com/in/kush-kothari-ba013218b">Kush Kothari</a> Google Summer of Code with NumFOCUS, <a href="https://vjti.ac.in">Veermata Jijabai Technological Institute (VJTI) 2023</a></p>
-<p><a href="https://www.linkedin.com/in/aakash-chaudhary-5203b9162">Aakash Chaudhary</a> Google Summer of Code with NumFOCUS, <a href="http://ducic.ac.in">University of Delhi 2022</a>, <a href="https://home.iitd.ac.in">Indian Institute of Technology, Delhi</a> </p>
+<p><a href="https://www.linkedin.com/in/kush-kothari-ba013218b">Kush Kothari</a> GSoC with NumFOCUS, <a href="https://vjti.ac.in">Veermata Jijabai Technological Institute (VJTI) 2023</a></p>
+<p><a href="https://www.linkedin.com/in/aakash-chaudhary-5203b9162">Aakash Chaudhary</a> GSoC with NumFOCUS, <a href="http://ducic.ac.in">University of Delhi 2022</a>, <a href="https://home.iitd.ac.in">IIT, Delhi</a> </p>
 <p></p>
 <p><b>Summer Intern 2022.</b></p>
-<p><a href="https://www.linkedin.com/in/ansh-dassani-2b4b44190">Ansh Dassani</a> Google Summer of Code with NumFOCUS, 2022, Zanskar Research</p>
-<p><a href="https://in.linkedin.com/in/nagesh-bansal-24a3401a7">Nagesh Bansal</a> Google Summer of Code with NumFOCUS, <a href="https://www.iitr.ac.in">Indian Institute of Technology, Roorkee 2023</a></p>
-<p><a href="https://linkedin.com/in/prayasj/">Prayas Jain</a> Google Summer of Code with NumFOCUS, 2022, Metaverse Japan</p>
+<p><a href="https://www.linkedin.com/in/ansh-dassani-2b4b44190">Ansh Dassani</a> GSoC with NumFOCUS, 2022, Zanskar Research</p>
+<p><a href="https://in.linkedin.com/in/nagesh-bansal-24a3401a7">Nagesh Bansal</a> GSoC with NumFOCUS, <a href="https://www.iitr.ac.in">Indian Institute of Technology, Roorkee 2023</a></p>
+<p><a href="https://linkedin.com/in/prayasj/">Prayas Jain</a> GSoC with NumFOCUS, 2022, Metaverse Japan</p>
 <p></p>
 <p><b>Summer Intern 2023.</b></p>
 <p><a href="https://www.linkedin.com/in/satsin06/">Satyam Sinha</a> Google Summer of Code with NumFOCUS, 2023, Soluperts</a></p>
