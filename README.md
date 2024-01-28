@@ -1,8 +1,8 @@
-<p>### Hi there 👋</p>
+### Hi there 👋
 <table>
 <tbody>
 <tr>
-<td><img src="https://camo.githubusercontent.com/dbcdb201bef18962c3730df9a5ecc662353e93d9/687474703a2f2f692e696d6775722e636f6d2f7365375474724b2e706e67" width="300px" /></td>
+<td><img src="http://i.imgur.com/se7TtrK.png" width="300px" /></td>
 <td>
 <h1>Data Retriever</h1>
 <p>The Data Retriever automates the tasks of finding, downloading, and cleaning up publicly available data, and loads them or stores them in variety of databases or flat file formats. This lets data analysts spend less time cleaning up and managing data, and more time analyzing it.</p>
@@ -81,13 +81,15 @@
 <p><b>Summer Intern 2021.</b></p> 
 <p><a href="https://www.linkedin.com/in/ansh-dassani-2b4b44190">Ansh Dassani</a> Summer of Code, 2021, <a href="http://ducic.ac.in">University of Delhi 2023</a></p>
 <p><a href="https://www.linkedin.com/in/kush-kothari-ba013218b">Kush Kothari</a> Google Summer of Code with NumFOCUS, <a href="https://vjti.ac.in">Veermata Jijabai Technological Institute (VJTI) 2023</a></p>
-<p><a href="https://www.linkedin.com/in/aakash-chaudhary-5203b9162">Aakash Chaudhary</a> Google Summer of Code with NumFOCUS, <a href="http://ducic.ac.in">University of Delhi 2022</a></p>
+<p><a href="https://www.linkedin.com/in/aakash-chaudhary-5203b9162">Aakash Chaudhary</a> Google Summer of Code with NumFOCUS, <a href="http://ducic.ac.in">University of Delhi 2022</a>, <a href="https://home.iitd.ac.in">Indian Institute of Technology, Delhi</a> </p>
 <p></p>
 <p><b>Summer Intern 2022.</b></p>
-<p><a href="https://www.linkedin.com/in/ansh-dassani-2b4b44190">Ansh Dassani</a> Google Summer of Code with NumFOCUS, 2022, <a href="http://ducic.ac.in">University of Delhi 2023</a></p>
+<p><a href="https://www.linkedin.com/in/ansh-dassani-2b4b44190">Ansh Dassani</a> Google Summer of Code with NumFOCUS, 2022, Zanskar Research</p>
 <p><a href="https://in.linkedin.com/in/nagesh-bansal-24a3401a7">Nagesh Bansal</a> Google Summer of Code with NumFOCUS, <a href="https://www.iitr.ac.in">Indian Institute of Technology, Roorkee 2023</a></p>
-<p><a href="https://linkedin.com/in/prayasj/">Prayas Jain</a> Google Summer of Code with NumFOCUS, 2022, <a href="http://ducic.ac.in">University of Delhi 2023</a></p>
+<p><a href="https://linkedin.com/in/prayasj/">Prayas Jain</a> Google Summer of Code with NumFOCUS, 2022, Metaverse Japan</p>
 <p></p>
+<p><b>Summer Intern 2023.</b></p>
+<p><a href="https://www.linkedin.com/in/satsin06/">Satyam Sinha</a> Google Summer of Code with NumFOCUS, 2023, Soluperts</a></p>
 <p></p>
 <p><a href="https://github.com/numfocus/gsoc">NumFOCUS</a> | <a>Data Retriever</a></p>
 </td>
