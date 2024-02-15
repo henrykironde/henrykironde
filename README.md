@@ -1,6 +1,23 @@
 ### Hi there 👋
 <table>
 <tbody>
+    <tr>
+      <td><img src="" width="300px" /></td>
+      <td>
+        <h1>Deepforest</h1>
+        <p>Tools for the long-term experimental study of the dynamics of rodents, plants, ants, and weather in the Chihuahuan Desert.</p>
+        <p><a href="https://github.com/weecology/DeepForest">Website</a> | <a href="https://github.com/weecology/portal-forecasts">Source Code</a> </p>
+      </td>
+    </tr>
+    <tr>
+      <td><img src="" width="300px" /></td>
+      <td>
+        <h1>Everglades Forecasts</h1>
+        <p>AI for Bird Monitoring and forecasting. Long-term population & biodiversity dynamics of wading birds in the Everglades.</p>
+        <p><a href="https://everglades.naturecast.org">Website</a> | <a href="https://github.com/weecology/EvergladesTools">Source Code</a> </p>
+      </td>
+    </tr>
+  
 <tr>
 <td><img src="http://i.imgur.com/se7TtrK.png" width="300px" /></td>
 <td>
@@ -47,14 +64,6 @@
 <h1>GSoC</h1>
 <p>Google Summer of Code with NumFOCUS, Admin and mentor.</p>
 <p><a href="https://github.com/numfocus/gsoc">NumFOCUS</a> | <a>Data Retriever</a></p>
-</td>
-</tr>
-<tr>
-<td><img src="https://deepforest.readthedocs.io/en/latest/_images/image.png" width="300px" /></td>
-<td>
-<h1>Deepforest</h1>
-<p>DeepForest is a python package for training and predicting individual tree crowns from airborne RGB imagery..</p>
-<p><a href="https://github.com/weecology/DeepForest">Website</a> | <a href="https://github.com/weecology/DeepForest">Source Code</a> | <a href="https://anaconda.org/conda-forge/deepforest"> Conda package </a></p>
 </td>
 </tr>
 <tr>
