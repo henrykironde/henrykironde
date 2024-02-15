@@ -2,9 +2,17 @@
 <table>
 <tbody>
     <tr>
-      <td><img src="" width="300px" /></td>
+      <td><img src="https://deepforest.readthedocs.io/en/latest/_images/image.png" width="300px" /></td>
       <td>
         <h1>Deepforest</h1>
+        <p>DeepForest is a python package for training and predicting individual tree crowns from airborne RGB imagery.</p>
+        <p><a href="https://github.com/weecology/DeepForest">Website</a> | <a href="https://github.com/weecology/DeepForest">Source Code</a> | <a href="https://anaconda.org/conda-forge/deepforest"> Conda package </a></p>
+      </td>
+    </tr>
+    <tr>
+      <td><img src="" width="300px" /></td>
+      <td>
+        <h1>Portal Forecasts</h1>
         <p>Tools for the long-term experimental study of the dynamics of rodents, plants, ants, and weather in the Chihuahuan Desert.</p>
         <p><a href="https://github.com/weecology/DeepForest">Website</a> | <a href="https://github.com/weecology/portal-forecasts">Source Code</a> </p>
       </td>
