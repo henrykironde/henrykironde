@@ -10,7 +10,7 @@
       </td>
     </tr>
     <tr>
-      <td><img src="" width="300px" /></td>
+      <td><img src="https://www.weecology.org/research-projects/portal-forecasting/featured_hu9c6668f842bedcd90d9f4f25435888f4_41478_720x2500_fit_q75_h2_lanczos_3.webp" width="300px" /></td>
       <td>
         <h1>Portal Forecasts</h1>
         <p>Tools for the long-term experimental study of the dynamics of rodents, plants, ants, and weather in the Chihuahuan Desert.</p>
@@ -18,7 +18,7 @@
       </td>
     </tr>
     <tr>
-      <td><img src="" width="300px" /></td>
+      <td><img src="https://www.weecology.org/research-projects/bird-remote-sensing/featured_hu1c64560856741043d1dcc2e35f182dee_1964105_720x2500_fit_q75_h2_lanczos_3.webp" width="300px" /></td>
       <td>
         <h1>Everglades Forecasts</h1>
         <p>AI for Bird Monitoring and forecasting. Long-term population & biodiversity dynamics of wading birds in the Everglades.</p>
