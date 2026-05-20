@@ -64,34 +64,23 @@ I also contribute to the Retriever ecosystem, which focuses on dataset ingestion
 These repositories represent my current and recent open-source focus across model development, forecasting products, data workflows, and community-facing infrastructure.
 
 ### AI / DL / ML
-- **DeepForest**, **deepforest-feedstock**, **deepforestr**
-- **MillionTrees**
-- **EvergladesTools**
-- **EvergladesWadingBird**
-- **everwatch-predictions**
-- **everwatch-workflow**
+- **DeepForest / deepforest-feedstock / deepforestr** — model development, packaging, and multi-language adoption for tree-crown detection
+- **MillionTrees** — large-scale benchmarking for geospatial ML and tree detection
+- **EvergladesTools / EvergladesWadingBird / everwatch-predictions / everwatch-workflow** — biodiversity monitoring, prediction generation, and workflow automation
 
 ### Forecasting Platforms & Scientific Web Apps
-- **BOEM-webapp**
-- **everglades-forecast-web**
-- **everglades-website**
-- **portal-forecast-web**
-- **portal-forecasts**
-- **portalcasting**
-- **portal-explorer**
+- **BOEM-webapp** — stakeholder-facing delivery for environmental analytics
+- **everglades-forecast-web / everglades-website** — public-facing forecast communication for Everglades work
+- **portal-forecast-web / portal-forecasts / portalcasting / portal-explorer** — operational ecological forecasting, visualization, and web delivery
 
 ### Data Infrastructure & Research Tooling
-- **PortalData**
-- **portalr**
-- **retriever**
-- **rdataretriever**
-- **Retriever.jl**
-- **retriever-recipes**
-- **retrieverdash**
+- **PortalData / portalr** — data access and analysis support for the Portal ecosystem
+- **retriever / rdataretriever / Retriever.jl** — cross-language dataset ingestion and reproducible data access
+- **retriever-recipes / retrieverdash** — dataset packaging and operational visibility for the Retriever ecosystem
 
 ### Community, Open Source, and Training
-- **gsoc**
-- **sql-novice-survey**
+- **gsoc** — mentorship and open-source program leadership
+- **sql-novice-survey** — training and research data education support
 
 ## Open Source Impact
 
