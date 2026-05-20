@@ -79,8 +79,8 @@ These repositories represent my current and recent open-source focus across mode
 - **retriever-recipes / retrieverdash** — dataset packaging and operational visibility for the Retriever ecosystem
 
 ### Community, Open Source, and Training
-- **gsoc** — mentorship and open-source program leadership
-- **sql-novice-survey** — training and research data education support
+- **[gsoc](https://github.com/numfocus/gsoc)** — Google Summer of Code mentorship and open-source program leadership
+- **[sql-novice-survey](https://github.com/swcarpentry/sql-novice-survey)** — training and research data education support
 
 ## Open Source Impact
 
