@@ -61,6 +61,8 @@ I also contribute to the Retriever ecosystem, which focuses on dataset ingestion
 
 ## Recent Contribution Areas
 
+These repositories represent my current and recent open-source focus across model development, forecasting products, data workflows, and community-facing infrastructure.
+
 ### AI / DL / ML
 - **DeepForest**, **deepforest-feedstock**, **deepforestr**
 - **MillionTrees**
