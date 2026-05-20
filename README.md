@@ -1,4 +1,4 @@
-# Hi, I'm Henry Kironde 👋
+# Hi, I'm Henry Senyondo 👋
 
 I work on **AI, deep learning, and machine learning systems** for ecological monitoring, remote sensing, forecasting, and scientific data products.
 
