@@ -43,7 +43,7 @@ Python-based integration platform for raster, vector, and tabular data pipelines
 ## Ecosystem Contributions
 
 - **rOpenSci** — rdataretriever package: https://docs.ropensci.org/rdataretriever/  
-- **Conda Forge maintainer** — deepforest, retriever, and other scientific packages  
+- **Conda Forge maintainer** — deepforest, retriever, slidingwindow, and keras-resnet  
 - **Julia ecosystem** — Retriever.jl package distribution: https://juliahub.com/ui/Packages/Retriever/9M45d/1.0.0?t=0
 
 ## Mentorship & Community
