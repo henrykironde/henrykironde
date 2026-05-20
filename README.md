@@ -1,52 +1,98 @@
 # Hi, I'm Henry Kironde 👋
 
-I build practical, open-source AI and data infrastructure for ecology, remote sensing, and scientific forecasting.
+I work on **AI, deep learning, and machine learning systems** for ecological monitoring, remote sensing, forecasting, and scientific data products.
 
-## Featured Projects (ranked by ecosystem and industry impact)
+My recent work spans **computer vision for tree detection**, **ML benchmarks for Earth observation**, **forecast-driven ecological decision support**, and **open-source data infrastructure** used by researchers and practitioners.
+
+## Featured Work
 
 ### 1) DeepForest
-**Applied AI for large-scale geospatial analytics**  
-Python package for training and deploying tree-crown detection models from airborne RGB imagery. Used across research and applied monitoring workflows.
+**Deep learning for large-scale tree crown detection**
 
-- GitHub: https://github.com/weecology/DeepForest  
-- Docs: https://deepforest.readthedocs.io/  
-- Package: https://anaconda.org/conda-forge/deepforest
+DeepForest is one of the strongest examples of my AI and applied ML work: building and maintaining tooling for training, packaging, and delivering computer vision models for airborne RGB imagery.
 
-### 2) Data Retriever
-**Production-grade data ingestion automation**  
-Framework to discover, download, clean, and load public datasets into databases and analytics pipelines, reducing data engineering overhead.
+- Core project: https://github.com/weecology/DeepForest
+- conda-forge package: https://anaconda.org/conda-forge/deepforest
+- R ecosystem support: https://github.com/weecology/deepforestr
 
-- GitHub: https://github.com/weecology/retriever  
-- Website: http://data-retriever.org  
-- Package: https://anaconda.org/conda-forge/retriever
+### 2) MillionTrees
+**ML benchmarking for remote sensing at scale**
 
-### 3) Portal Forecasts
-**Operational ecological forecasting platform**  
-Forecasting workflows for long-term ecosystem monitoring (rodents, plants, ants, weather), enabling reproducible decision-support outputs.
+MillionTrees advances reproducible benchmarking for tree detection and geospatial ML, helping connect research-grade models to large-scale evaluation and deployment workflows.
 
-- GitHub: https://github.com/weecology/portal-forecasts  
-- Website: https://portal.naturecast.org/
+- Project: https://github.com/weecology/MillionTrees
+- Website: https://milliontrees.idtrees.org/
 
-### 4) EvergladesTools
-**AI-enabled biodiversity monitoring**  
-Computational tooling for bird monitoring and forecasting in the Everglades, supporting long-horizon biodiversity analysis.
+### 3) EverWatch / Everglades AI Stack
+**AI-enabled biodiversity monitoring and forecasting**
 
-- GitHub: https://github.com/weecology/EvergladesTools  
-- Forecast Portal: https://everglades.naturecast.org
+This contribution area combines computer vision, forecasting, and production data workflows for monitoring Everglades wading birds and turning model outputs into usable web-facing products.
 
-### 5) PyDataWeaver
-**Data integration for heterogeneous scientific data**  
-Python-based integration platform for raster, vector, and tabular data pipelines.
+- Modeling and tooling: https://github.com/weecology/EvergladesTools
+- Forecast web app: https://github.com/weecology/everglades-forecast-web
+- Prediction outputs: https://github.com/weecology/everwatch-predictions
+- Workflow automation: https://github.com/weecology/everwatch-workflow
 
-- GitHub: https://github.com/weecology/pydataweaver
+### 4) BOEM-webapp
+**Applied environmental analytics delivered through the web**
 
-## Ecosystem Contributions
+BOEM-webapp represents stakeholder-facing product work: turning technical analysis and model outputs into accessible interfaces for decision support.
 
-- **rOpenSci** — rdataretriever package: https://docs.ropensci.org/rdataretriever/  
-- **conda-forge maintainer** — deepforest, retriever, slidingwindow, and keras-resnet  
-- **Julia ecosystem** — Retriever.jl package distribution: https://juliahub.com/ui/Packages/Retriever/9M45d/1.0.0?t=0
+- Project: https://github.com/weecology/BOEM-webapp
 
-## Mentorship & Community
+### 5) Portal Forecasting
+**Operational forecasting for ecological systems**
 
-- Mentor and administrator for **Google Summer of Code (NumFOCUS)**  
-- Mentored contributors who later joined major technology organizations and research institutions
+The Portal ecosystem connects data engineering, modeling, and web delivery for long-term ecological forecasting and reproducible forecast communication.
+
+- Forecast workflows: https://github.com/weecology/portal-forecasts
+- Forecast website: https://github.com/weecology/portal-forecast-web
+- Forecasting stack: https://github.com/weecology/portalcasting
+
+### 6) Data Retriever Ecosystem
+**Open-source data engineering for scientific workflows**
+
+I also contribute to the Retriever ecosystem, which focuses on dataset ingestion, packaging, dashboards, and multi-language access for reproducible data workflows.
+
+- Python: https://github.com/weecology/retriever
+- R: https://docs.ropensci.org/rdataretriever/
+- Julia: https://juliahub.com/ui/Packages/Retriever/9M45d/1.0.0?t=0
+- Dashboard: https://github.com/weecology/retrieverdash
+
+## Recent Contribution Areas
+
+### AI / DL / ML
+- **DeepForest**, **deepforest-feedstock**, **deepforestr**
+- **MillionTrees**
+- **EvergladesTools**
+- **EvergladesWadingBird**
+- **everwatch-predictions**
+- **everwatch-workflow**
+
+### Forecasting Platforms & Scientific Web Apps
+- **BOEM-webapp**
+- **everglades-forecast-web**
+- **everglades-website**
+- **portal-forecast-web**
+- **portal-forecasts**
+- **portalcasting**
+- **portal-explorer**
+
+### Data Infrastructure & Research Tooling
+- **PortalData**
+- **portalr**
+- **retriever**
+- **rdataretriever**
+- **Retriever.jl**
+- **retriever-recipes**
+- **retrieverdash**
+
+### Community, Open Source, and Training
+- **gsoc**
+- **sql-novice-survey**
+
+## Open Source Impact
+
+- Maintainer and contributor across **AI/ML packages, forecasting systems, and scientific web platforms**
+- Strong focus on **productionizing research software** for real-world ecological and environmental applications
+- Active across **Python, R, Julia, web delivery, and packaging ecosystems**
